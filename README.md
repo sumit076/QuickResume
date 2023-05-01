@@ -1,6 +1,6 @@
 # QuickResume - Now Create and Share Resume with Ease and Quick.
 
-# Resume-Builder-Web-Application
+## Resume-Builder-Web-Application
 
 ## To Run  this project
 
