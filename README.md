@@ -12,3 +12,7 @@
     
 3. Build the Project</br>
     `npm run build`
+
+## Issues:
+- Can't parse the resume in all the formats
+
